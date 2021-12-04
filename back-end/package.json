@@ -1,0 +1,16 @@
+{
+  "name": "REDEMET-API",
+  "version": "1.0.0",
+  "description": "REDEMET-API",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node src/index.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "pg": "^8.6.0",
+    "pg-hstore": "^2.3.4",
+    "sqlstring": "^2.3.2"
+  }
+}
